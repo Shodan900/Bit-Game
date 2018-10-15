@@ -1,3 +1,2 @@
 # Bit-Game
-8-bit game thing
-good folder organization LUL
+8-bit game about a ship in space with not-so-great folder organization.
